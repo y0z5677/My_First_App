@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-        Toast.makeText(this,"Hello from android", Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"this is  branch", Toast.LENGTH_LONG).show();
     }
 
     @Override
